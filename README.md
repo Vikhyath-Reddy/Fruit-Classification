@@ -42,7 +42,7 @@ This project implements a convolutional neural network (CNN) for image classific
 ### **4. Visualizations**
 - **Model Predictions:**
   - Predictions on test data are compared against true labels for validation.
-     ![Model Accuracy Graph](image_prediction.png)
+     ![Model Accuracy Graph](Image_prediction.png)
 ---
 
 ## **Results and Observations**
